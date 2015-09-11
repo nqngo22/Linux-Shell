@@ -1,11 +1,11 @@
-Nguyen Ngo, Shyam Pinnipati
+Nguyen Ngo, Shyam Pinnipati<br />
 To compile, run make -f MakeFile or g++ -std=c++11 ashell.cpp -o <filename>
 
-Features:
-Execute aplications
-Setup pipes between executed applications
-Background processes
-Create child processes
-Perform simple commands internally
+Features:<br />
+Execute aplications<br />
+Setup pipes between executed applications<br />
+Background processes<br />
+Create child processes<br />
+Perform simple commands internally<br />
 Command history
 
